@@ -1,0 +1,6 @@
+{
+  "name": "জামিয়াতুল মাআরিফ আলইসলামিয়া",
+  "description": "জামিয়াতুল মাআরিফ আলইসলামিয়া - একটি উচ্চতর দ্বীনি গবেষণা প্রতিষ্ঠান",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
